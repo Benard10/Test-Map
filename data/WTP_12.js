@@ -1,0 +1,1 @@
+var json_WTP_12 = {"type":"FeatureCollection","name":"WTP_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Elevation":"2023","Longitude":36.751,"Latitude":-1.066,"Name":"WTP"},"geometry":{"type":"Point","coordinates":[36.750371510858741,-1.066123482040667]}}]}

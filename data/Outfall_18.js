@@ -1,0 +1,1 @@
+var json_Outfall_18 = {"type":"FeatureCollection","name":"Outfall_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ID":"31","ELEV.(m)":"1867"},"geometry":{"type":"Point","coordinates":[36.786966357497668,-1.073226521000806]}}]}
